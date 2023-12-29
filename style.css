@@ -1,0 +1,96 @@
+body {
+
+
+        background-color: red;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: 10%;
+      
+}
+
+
+
+h1 {
+
+    text-align: center;
+    font-family: fantasy;
+    letter-spacing: 3px;
+    color: pink;
+    text-shadow: 2px 3px 2px blaCK;
+}
+
+#yes-button {
+
+  border-style: solid;
+ border-radius: 4px;
+ padding: 3px;
+margin-right: 150px;
+font-family: Arial;
+font-weight: bold;
+font-size: 20px;
+padding-left: 18px;
+padding-right: 18px;
+padding-top: 5px;
+padding-bottom: 5px;
+cursor: pointer;
+
+
+}
+
+a {
+
+
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+
+
+
+#yes-button:hover {
+
+
+opacity: 0.8;
+box-shadow: rgba(05, rgb(99, 100, 99), blue, 5);
+
+}
+
+#yes-button:active {
+
+
+    opacity: 0.15;
+    
+    
+    }
+
+    
+    .no-button {
+        
+        vertical-align: auto;
+        font-size: 20px;
+        padding: 2px;
+        padding-left: 18px;
+padding-right: 18px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-style: solid;
+border-radius: 4px;
+font-weight: bold;
+font-family: Arial;
+
+    }
+    .no-button:hover {
+
+        opacity: 0.8;
+        box-shadow: rgba(05, rgb(99, 100, 99), blue, 5);
+
+    }
+
+    .no-button:active {
+
+
+        opacity: 0.15;
+        
+        
+        }
